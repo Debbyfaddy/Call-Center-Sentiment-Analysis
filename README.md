@@ -2,7 +2,7 @@ Markdown
 # Call Center Sentiment Analysis Dashboard
 
 ## Dashboard Preview
-![Call Center Sentiment Analysis Dashboard](Call-Center dashboard.png)
+![Call Center Sentiment Analysis Dashboard](Call-Center%20dashboard.png)
 
 ---
 
